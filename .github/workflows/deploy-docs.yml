@@ -23,6 +23,12 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy documentation
         run: |
-          python -m mkdocs gh-deploy --force
+          mike deploy --push --update-aliases 1.0.0 latest
+          mike set-default --push latest
