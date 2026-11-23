@@ -44,13 +44,11 @@ streamlit run arena_app.py
 
 ## ドキュメントのバージョン公開
 
-`v1.0.0` のような Git タグを push すると、GitHub Actions がそのタグの
-ドキュメントを `mike` で GitHub Pages に公開します。`latest` は最後に
-公開したバージョンを指します。
+`main` ブランチに push すると、GitHub Actions がドキュメントを
+GitHub Pages に公開します。
 
 ```shell
-git tag v1.0.0
-git push origin v1.0.0
+git push origin main
 ```
 
 ローカルでドキュメントを確認する場合は、次を実行します。
