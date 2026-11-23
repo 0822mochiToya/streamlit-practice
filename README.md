@@ -25,6 +25,16 @@ streamlit run arena_app.py
 http://localhost:8501
 ```
 
+## Streamlit Community Cloudで公開
+
+1. [Streamlit Community Cloud](https://share.streamlit.io/)にGitHubアカウントでログインする
+2. **Create app** を選択する
+3. Repositoryに `0822mochiToya/streamlit-practice` を指定する
+4. Branchに `main`、Main file pathに `arena_app.py` を指定する
+5. **Deploy** を選択する
+
+公開後に発行されたURLを共有すると、誰でもアプリを閲覧できます。
+
 ## 必要な環境
 
 - Python 3.14.6
