@@ -1,0 +1,11 @@
+site_name: Card Game App
+site_url: https://0822mochiToya.github.io/streamlit-practice/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
+repo_url: https://github.com/0822mochiToya/streamlit-practice
+extra:
+  version:
+    provider: mike

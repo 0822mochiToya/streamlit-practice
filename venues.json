@@ -1,0 +1,711 @@
+[
+  {
+    "name": "日産スタジアム",
+    "website": "https://www.nissan-stadium.jp/",
+    "category": "スタジアム",
+    "capacity": 72327,
+    "address": "神奈川県横浜市港北区小机町3300",
+    "station": "新横浜駅、小机駅",
+    "station_walk": {
+      "新横浜駅": "徒歩約15分",
+      "小机駅": "徒歩約7分"
+    },
+    "nearby_spots": [
+      {
+        "name": "新横浜駅周辺",
+        "time": "徒歩約15分",
+        "description": "ショッピング・カフェ・飲食店"
+      },
+      {
+        "name": "横浜駅周辺",
+        "time": "電車で約25分",
+        "description": "ショッピング・みなとみらい方面へのアクセス"
+      },
+      {
+        "name": "横浜中華街",
+        "time": "電車で約25分",
+        "description": "食事や街歩き"
+      }
+    ],
+    "planned_year": "1990年",
+    "completed_year": "1998年",
+    "opened_year": "1998年",
+    "uses": "サッカー、ラグビー、陸上競技、大規模コンサート",
+    "charm_point": "日本最大級の収容人数を持ち、2002年ワールドカップ決勝の舞台になった大型スタジアム",
+    "major_uses": [
+      [
+        "スポーツ",
+        [
+          "2002 FIFAワールドカップ決勝",
+          "ラグビーワールドカップ2019決勝",
+          "Jリーグ公式戦",
+          "全国大会・各種陸上競技大会"
+        ]
+      ],
+      [
+        "音楽ライブ",
+        [
+          "B'z",
+          "矢沢永吉",
+          "サザンオールスターズ",
+          "Mr.Children",
+          "乃木坂46"
+        ]
+      ]
+    ],
+    "timeline": [
+      {
+        "year": "1990年",
+        "event": "建設計画"
+      },
+      {
+        "year": "1998年",
+        "event": "横浜国際総合競技場として完成・開場"
+      },
+      {
+        "year": "2002年",
+        "event": "FIFAワールドカップ決勝の舞台"
+      },
+      {
+        "year": "2005年",
+        "event": "日産スタジアムへ名称変更"
+      },
+      {
+        "year": "2019年",
+        "event": "ラグビーワールドカップ決勝の舞台"
+      }
+    ],
+    "image": "assets/nissan-stadium.png",
+    "image_source": "https://trip.pref.kanagawa.jp/ja/destination/international-stadium-yokohama-nissan-stadium/239",
+    "image_source_name": "神奈川県公式観光サイト",
+    "gallery": [
+      "assets/nissan-stadium.png"
+    ],
+    "history": "1998年（平成10年）3月に「横浜国際総合競技場」として開場。2002年のFIFAワールドカップ決勝戦の舞台となったことで世界的に知られ、日本最大級の7万5千人収容を誇る大型多目的スタジアムです。",
+    "performers": [
+      "B'z",
+      "矢沢永吉",
+      "サザンオールスターズ",
+      "Mr.Children",
+      "BUMP OF CHICKEN",
+      "SEKAI NO OWARI",
+      "乃木坂46"
+    ],
+    "events": "2002 FIFAワールドカップ決勝、ラグビーワールドカップ2019決勝、各種陸上競技大会・ライブパフォーマンス",
+    "reviews": []
+  },
+  {
+    "name": "Kアリーナ横浜",
+    "website": "https://k-arena.com/",
+    "category": "アリーナ",
+    "capacity": 20033,
+    "address": "神奈川県横浜市西区みなとみらい6-2-14",
+    "station": "新高島駅、横浜駅",
+    "station_walk": {
+      "新高島駅": "徒歩約3分",
+      "横浜駅": "徒歩約20分"
+    },
+    "planned_year": "2017年",
+    "completed_year": "2023年",
+    "opened_year": "2023年",
+    "uses": "音楽ライブ",
+    "charm_point": "全席がステージ正面を向く音楽専用アリーナ",
+    "history_description": "主に音楽ライブに使われている。",
+    "charm_description": "最大の特徴は全席がステージ正面を向く音楽専用アリーナであることだ。",
+    "timeline": [
+      {
+        "year": "2017年",
+        "event": "建設計画・着工"
+      },
+      {
+        "year": "2023年",
+        "event": "完成・開場"
+      }
+    ],
+    "nearby_spots": [
+      {
+        "name": "みなとみらい地区",
+        "time": "会場徒歩圏内",
+        "description": "ショッピングや海沿い散策"
+      },
+      {
+        "name": "横浜赤レンガ倉庫",
+        "time": "徒歩約15分",
+        "description": "ショッピング・飲食"
+      },
+      {
+        "name": "横浜中華街",
+        "time": "徒歩約25分",
+        "description": "食事や街歩き"
+      }
+    ],
+    "nearby_places": [
+      {
+        "name": "コンビニあり",
+        "time": "徒歩圏内",
+        "description": ""
+      },
+      {
+        "name": "カフェやレストランあり",
+        "time": "徒歩圏内",
+        "description": ""
+      }
+    ],
+    "image": "assets/k-arena-yokohama.png",
+    "image_source": "https://www.sumaitoseikatsu.yokohama/archives/32529",
+    "image_source_name": "住まいと生活のブログ",
+    "gallery": [
+      "assets/k-arena-yokohama.png"
+    ],
+    "history": "2023年9月に開場した世界最大級の「音楽専用アリーナ」。全席がステージ正面を向くように設計され、音響に特化した最先端の設備を備えています。",
+    "performers": [
+      "ゆず",
+      "スピッツ",
+      "OFFICIAL HIGE DANDISM",
+      "MISIA",
+      "アイドルの大型アリーナツアー多数"
+    ],
+    "events": "音楽ライブ中心",
+    "major_uses": [
+      [
+        "音楽ライブ",
+        [
+          "ゆず",
+          "スピッツ",
+          "OFFICIAL HIGE DANDISM",
+          "MISIA"
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "横浜スタジアム",
+    "website": "https://www.yokohama-stadium.co.jp/",
+    "category": "スタジアム",
+    "capacity": 35363,
+    "address": "神奈川県横浜市中区横浜公園",
+    "station": "関内駅、日本大通り駅",
+    "station_walk": {
+      "関内駅": "徒歩約2分",
+      "日本大通り駅": "徒歩約7分"
+    },
+    "nearby_spots": [
+      {
+        "name": "横浜公園",
+        "time": "徒歩約2分",
+        "description": "バラ園や散策"
+      },
+      {
+        "name": "横浜中華街",
+        "time": "徒歩約20分",
+        "description": "食事や街歩き"
+      },
+      {
+        "name": "山下公園",
+        "time": "徒歩約15分",
+        "description": "海沿い散策"
+      }
+    ],
+    "image": "assets/yokohama-stadium.png",
+    "image_source": "https://www.sumaitoseikatsu.yokohama/archives/62134",
+    "image_source_name": "住まいと生活のブログ",
+    "gallery": [
+      "assets/yokohama-stadium.png"
+    ],
+    "history": "1978年開場。日本初の多目的スタジアムとして建設され、「ハマスタ」の愛称で愛される横浜DeNAベイスターズの本拠地です。",
+    "performers": [
+      "TUBE",
+      "水樹奈々",
+      "ONE OK ROCK",
+      "水曜日のカンパネラ"
+    ],
+    "events": "プロ野球公式戦、東京2020オリンピック（野球・ソフトボール会場）、野外ライブ",
+    "major_uses": [
+      [
+        "スポーツ",
+        [
+          "横浜DeNAベイスターズの本拠地",
+          "プロ野球公式戦",
+          "東京2020オリンピック（野球・ソフトボール）"
+        ]
+      ],
+      [
+        "音楽ライブ",
+        [
+          "TUBE",
+          "水樹奈々",
+          "ONE OK ROCK",
+          "水曜日のカンパネラ"
+        ]
+      ]
+    ],
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1977年",
+        "event": "株式会社横浜スタジアム設立・工事着工"
+      },
+      {
+        "year": "1978年",
+        "event": "横浜スタジアム開場"
+      },
+      {
+        "year": "2017年",
+        "event": "横浜DeNAベイスターズ本拠地として運用"
+      },
+      {
+        "year": "2020年",
+        "event": "東京2020オリンピック野球・ソフトボール会場"
+      }
+    ]
+  },
+  {
+    "name": "横浜アリーナ",
+    "website": "https://www.yokohama-arena.co.jp/",
+    "category": "アリーナ",
+    "capacity": 17010,
+    "address": "神奈川県横浜市港北区新横浜3-10",
+    "station": "新横浜駅",
+    "station_walk": {
+      "新横浜駅": "徒歩約8分"
+    },
+    "nearby_spots": [
+      {
+        "name": "横浜中華街",
+        "time": "電車で約20分",
+        "description": "食事や街歩き"
+      },
+      {
+        "name": "キュービックプラザ新横浜",
+        "time": "徒歩約5分",
+        "description": "ショッピング・ランチ"
+      }
+    ],
+    "image": "assets/yokohama-arena.png",
+    "gallery": [
+      "assets/yokohama-arena.png"
+    ],
+    "image_source": "https://iccfa.org/mama-%E6%A8%AA%E6%B5%9C%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A-mama-in-japan-2017-%E5%8F%97%E8%B3%9E%E8%80%85/",
+    "image_source_name": "ICCFA",
+    "history": "1989年開場。関東を代表する大型アリーナ施設として数々の伝説的なライブや式典が開催されてきました。",
+    "performers": [
+      "松任谷由実",
+      "サザンオールスターズ",
+      "宇多田ヒカル",
+      "K-POPグループ多数"
+    ],
+    "events": "音楽ライブ、格闘技、成人式、企業イベント",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1989年",
+        "event": "横浜アリーナ開館"
+      },
+      {
+        "year": "1989年",
+        "event": "松任谷由実による開館記念コンサート"
+      },
+      {
+        "year": "1989年以降",
+        "event": "サザンオールスターズなどのライブ会場として利用"
+      }
+    ]
+  },
+  {
+    "name": "ぴあアリーナMM",
+    "website": "https://pia-arena-mm.jp/",
+    "category": "アリーナ",
+    "capacity": 12141,
+    "address": "神奈川県横浜市西区みなとみらい3-2-2",
+    "station": "みなとみらい駅、桜木町駅",
+    "station_walk": {
+      "みなとみらい駅": "徒歩約5分",
+      "桜木町駅": "徒歩約15分"
+    },
+    "nearby_spots": [
+      {
+        "name": "横浜赤レンガ倉庫",
+        "time": "徒歩約10分",
+        "description": "ショッピング・飲食"
+      },
+      {
+        "name": "みなとみらい地区",
+        "time": "徒歩圏内",
+        "description": "展望スポットやショッピング"
+      },
+      {
+        "name": "横浜中華街",
+        "time": "徒歩約20分",
+        "description": "食事や街歩き"
+      }
+    ],
+    "image": "assets/pia-arena-mm.png",
+    "image_source": "https://locanavi.com/facilities/pia-arena-mm/",
+    "image_source_name": "ロケなび！",
+    "gallery": [
+      "assets/pia-arena-mm.png"
+    ],
+    "history": "2020年7月にみなとみらい地区に誕生した音楽専用アリーナ。縦長でコンパクトな作りでステージとの一体感が特徴です。",
+    "performers": [
+      "ゆず",
+      "LiSA",
+      "あいみょん",
+      "声優・アニメイベント"
+    ],
+    "events": "音楽ライブ・コンサート",
+    "major_uses": [
+      [
+        "音楽ライブ",
+        [
+          "ゆず",
+          "LiSA",
+          "あいみょん"
+        ]
+      ]
+    ],
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "2020年",
+        "event": "ぴあアリーナMM開業"
+      }
+    ]
+  },
+  {
+    "name": "KT Zepp Yokohama",
+    "website": "https://www.zepp.co.jp/hall/yokohama/",
+    "category": "ライブハウス",
+    "capacity": 2146,
+    "address": "神奈川県横浜市西区みなとみらい4-3-6",
+    "station": "新高島駅、横浜駅",
+    "station_walk": {
+      "新高島駅": "徒歩約5分",
+      "横浜駅": "徒歩約20分"
+    },
+    "image": "assets/kt-zepp-yokohama.png",
+    "image_source": "https://1rankup.jp/yokohama/yokohamaeki-zepp.html",
+    "image_source_name": "1rankup",
+    "gallery": [
+      "assets/kt-zepp-yokohama.png"
+    ],
+    "history": "2020年3月にコーエーテクモゲームス社とのコラボにより誕生したZeppブランドのライブハウス。",
+    "performers": [
+      "ロックバンド多数",
+      "Vtuberライブ",
+      "ゲームイベント"
+    ],
+    "events": "ワンマンライブ、対バンイベント、ファンミーティング",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "2020年",
+        "event": "KT Zepp Yokohama開業"
+      }
+    ]
+  },
+  {
+    "name": "東急ドレッセとどろきアリーナ",
+    "website": "https://kawasaki-bravethunders.com/",
+    "category": "アリーナ",
+    "capacity": 6500,
+    "address": "神奈川県川崎市中原区等々力1-3",
+    "station": "武蔵小杉駅、武蔵中原駅",
+    "station_walk": {
+      "武蔵小杉駅": "バス約10分",
+      "武蔵中原駅": "徒歩約15分"
+    },
+    "image": "assets/todoroki-arena.png",
+    "image_source": "https://smart-list.info/todoroki-arena/",
+    "image_source_name": "smart-list",
+    "gallery": [
+      "assets/todoroki-arena.png"
+    ],
+    "history": "川崎ブレイブサンダースのホームアリーナとして、バスケットボールを中心にスポーツイベントが開催されています。",
+    "performers": [
+      "川崎ブレイブサンダース"
+    ],
+    "events": "B.LEAGUE公式戦、バスケットボール関連イベント",
+    "major_uses": [
+      [
+        "スポーツ",
+        [
+          "川崎ブレイブサンダースのホームゲーム",
+          "B.LEAGUE公式戦"
+        ]
+      ]
+    ],
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1995年",
+        "event": "とどろきアリーナ開設"
+      },
+      {
+        "year": "2025年",
+        "event": "東急ドレッセとどろきアリーナへ名称変更"
+      }
+    ]
+  },
+  {
+    "name": "パシフィコ横浜",
+    "website": "https://www.pacifico.co.jp/",
+    "category": "コンベンション・ホール",
+    "capacity": 5002,
+    "address": "神奈川県横浜市西区みなとみらい1-1-1",
+    "station": "みなとみらい駅、桜木町駅",
+    "station_walk": {
+      "みなとみらい駅": "徒歩約5分",
+      "桜木町駅": "徒歩約12分"
+    },
+    "nearby_spots": [
+      {
+        "name": "臨港パーク",
+        "time": "徒歩約5分",
+        "description": "海沿い散策"
+      },
+      {
+        "name": "横浜赤レンガ倉庫",
+        "time": "徒歩約10分",
+        "description": "ショッピング・飲食"
+      },
+      {
+        "name": "横浜中華街",
+        "time": "徒歩約25分",
+        "description": "食事や街歩き"
+      }
+    ],
+    "image": "assets/pacifico-yokohama.png",
+    "image_source": "https://zaseki.guide/kanagawa/yokohama/pacifico-yokohama.html",
+    "image_source_name": "座席ガイド",
+    "gallery": [
+      "assets/pacifico-yokohama.png"
+    ],
+    "history": "国際会議や展示会、コンサートなど幅広い催事に対応する、みなとみらい地区の大型複合コンベンション施設です。",
+    "performers": [
+      "各種コンサート・イベント"
+    ],
+    "events": "国際会議、展示会、ライブ、式典",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1988年",
+        "event": "建設着工"
+      },
+      {
+        "year": "1991年",
+        "event": "会議センター・展示ホールが開業"
+      },
+      {
+        "year": "1994年",
+        "event": "国立大ホール完成"
+      }
+    ]
+  },
+  {
+    "name": "神奈川県民ホール",
+    "website": "https://www.kanagawa-kenminhall.com/",
+    "category": "ホール",
+    "capacity": 2493,
+    "address": "神奈川県横浜市中区山下町3-1",
+    "station": "日本大通り駅、関内駅",
+    "station_walk": {
+      "日本大通り駅": "徒歩約3分",
+      "関内駅": "徒歩約7分"
+    },
+    "image": "assets/kanagawa-kenmin-hall.png",
+    "image_source": "https://www.hamakei.com/photoflash/9163/",
+    "image_source_name": "ヨコハマ経済新聞",
+    "gallery": [
+      "assets/kanagawa-kenmin-hall.png"
+    ],
+    "history": "クラシックやオペラ、演劇など幅広い舞台芸術を支えてきた、横浜を代表する文化施設です。",
+    "performers": [
+      "オーケストラ",
+      "演劇・ミュージカル",
+      "各種アーティスト"
+    ],
+    "events": "音楽公演、演劇、舞踊、講演会",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1975年",
+        "event": "神奈川県民ホール開館"
+      },
+      {
+        "year": "2025年",
+        "event": "老朽化による本館の休館"
+      }
+    ]
+  },
+  {
+    "name": "カルッツかわさき",
+    "website": "https://culttz.city.kawasaki.jp/",
+    "category": "ホール",
+    "capacity": 2013,
+    "address": "神奈川県川崎市川崎区富士見1-1-4",
+    "station": "川崎駅、京急川崎駅",
+    "station_walk": {
+      "川崎駅": "徒歩約5分",
+      "京急川崎駅": "徒歩約5分"
+    },
+    "image": "assets/culttz-kawasaki.png",
+    "image_source": "https://www.city.kawasaki.jp/shisei/category/288-6-2-0-0-0-0-0-0-0.html",
+    "image_source_name": "川崎市公式サイト",
+    "gallery": [
+      "assets/culttz-kawasaki.png"
+    ],
+    "history": "川崎市スポーツ・文化総合センターとして、スポーツ施設と文化ホールを備えています。",
+    "performers": [
+      "各種アーティスト",
+      "スポーツイベント"
+    ],
+    "events": "コンサート、演劇、スポーツ、講演会",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "2017年",
+        "event": "スポーツ・文化総合センターとして竣工・開館"
+      }
+    ]
+  },
+  {
+    "name": "よこすか芸術劇場",
+    "website": "https://www.yokosuka-arts.or.jp/",
+    "category": "劇場",
+    "capacity": 1806,
+    "address": "神奈川県横須賀市本町3-27",
+    "station": "汐入駅、横須賀駅",
+    "station_walk": {
+      "汐入駅": "徒歩約6分",
+      "横須賀駅": "徒歩約15分"
+    },
+    "image": "assets/yokosuka-theatre.png",
+    "image_source": "https://note.com/yuka_hrym/n/n6c481585dbbb",
+    "image_source_name": "note（yuka_hrym）",
+    "gallery": [
+      "assets/yokosuka-theatre.png"
+    ],
+    "history": "オペラやクラシック、演劇などの舞台公演に対応する、横須賀を代表する芸術劇場です。",
+    "performers": [
+      "オーケストラ",
+      "オペラ・演劇",
+      "各種アーティスト"
+    ],
+    "events": "音楽公演、オペラ、演劇、舞踊",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1994年",
+        "event": "よこすか芸術劇場開館"
+      },
+      {
+        "year": "2006年",
+        "event": "来場者300万人達成"
+      }
+    ]
+  },
+  {
+    "name": "相模女子大学グリーンホール",
+    "website": "https://hall-net.or.jp/01greenhall/",
+    "category": "ホール",
+    "capacity": 1790,
+    "address": "神奈川県相模原市南区相模大野4-4-1",
+    "station": "相模大野駅",
+    "station_walk": {
+      "相模大野駅": "徒歩約3分"
+    },
+    "image": "assets/sagamihara-green-hall.png",
+    "image_source": "https://www.sagami-wu.ac.jp/features/",
+    "image_source_name": "相模女子大学公式サイト",
+    "gallery": [
+      "assets/sagamihara-green-hall.png"
+    ],
+    "history": "相模原市を代表する多目的ホールとして、音楽や舞台芸術の公演に利用されています。",
+    "performers": [
+      "各種アーティスト",
+      "演劇・ミュージカル"
+    ],
+    "events": "コンサート、演劇、講演会、式典",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1990年",
+        "event": "グリーンホール相模大野として開館"
+      },
+      {
+        "year": "2013年",
+        "event": "相模女子大学グリーンホールへ名称変更"
+      }
+    ]
+  },
+  {
+    "name": "鎌倉芸術館",
+    "website": "https://kamakura-arts.jp/",
+    "category": "ホール",
+    "capacity": 1500,
+    "address": "神奈川県鎌倉市大船6-1-2",
+    "station": "大船駅",
+    "station_walk": {
+      "大船駅": "徒歩約15分"
+    },
+    "image": "assets/kamakura-arts.png",
+    "image_source": "https://www.mapple.net/spot/14012652/",
+    "image_source_name": "Mapple",
+    "gallery": [
+      "assets/kamakura-arts.png"
+    ],
+    "history": "大ホール・小ホール・ギャラリーを備え、鎌倉地域の文化活動を支える芸術施設です。",
+    "performers": [
+      "各種アーティスト",
+      "演劇・舞踊"
+    ],
+    "events": "音楽公演、演劇、舞踊、展示会",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1990年",
+        "event": "建設着工"
+      },
+      {
+        "year": "1993年",
+        "event": "鎌倉芸術館開館"
+      }
+    ]
+  },
+  {
+    "name": "CLUB CITTA'",
+    "website": "https://clubcitta.co.jp/",
+    "category": "ライブハウス",
+    "capacity": 1300,
+    "address": "神奈川県川崎市川崎区小川町5-7",
+    "station": "川崎駅、京急川崎駅",
+    "station_walk": {
+      "川崎駅": "徒歩約10分",
+      "京急川崎駅": "徒歩約10分"
+    },
+    "image": "assets/club-citta.png",
+    "image_source": "https://snowmansan.hatenadiary.jp/entry/2017/04/22/222349",
+    "image_source_name": "snowmansanのブログ",
+    "gallery": [
+      "assets/club-citta.png"
+    ],
+    "history": "川崎を代表する大型ライブハウスの一つで、ロックやポップスを中心に多彩な公演が行われています。",
+    "performers": [
+      "ロックバンド",
+      "ポップスアーティスト",
+      "アイドル"
+    ],
+    "events": "ライブ、対バン、イベント",
+    "reviews": [],
+    "timeline": [
+      {
+        "year": "1988年",
+        "event": "運営会社設立"
+      },
+      {
+        "year": "1988年",
+        "event": "CLUB CITTA'川崎として開館"
+      }
+    ]
+  }
+]

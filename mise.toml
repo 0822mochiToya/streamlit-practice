@@ -1,0 +1,16 @@
+[tools]
+python = "3.14.6"
+
+[tasks.install]
+description = "Install the project's Python dependencies"
+run = "python -m pip install --upgrade pip && python -m pip install -r requirements.txt"
+
+[tasks.docs-serve]
+description = "Serve the documentation locally"
+depends = ["install"]
+run = "mkdocs serve"
+
+[tasks.docs-build]
+description = "Build the documentation"
+depends = ["install"]
+run = "mkdocs build --strict"

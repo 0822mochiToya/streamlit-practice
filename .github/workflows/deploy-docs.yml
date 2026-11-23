@@ -1,0 +1,50 @@
+name: Deploy versioned documentation
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Documentation version to deploy (for example, 1.0.0)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up mise
+        uses: jdx/mise-action@v2
+        with:
+          cache: true
+
+      - name: Install documentation dependencies
+        run: mise run install
+
+      - name: Deploy documentation version
+        env:
+          INPUT_VERSION: ${{ inputs.version }}
+          TAG_NAME: ${{ github.ref_name }}
+        run: |
+          if [ -n "$INPUT_VERSION" ]; then
+            VERSION="$INPUT_VERSION"
+          else
+            VERSION="${TAG_NAME#v}"
+          fi
+
+          case "$VERSION" in
+            ""|*[!0-9.]*|.*|*.) exit 1 ;;
+          esac
+
+          mike deploy --push --update-aliases "$VERSION" latest
+          mike set-default --push latest
