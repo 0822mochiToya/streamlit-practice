@@ -66,7 +66,3 @@ git push origin main
 ```shell
 mise run docs-serve
 ```
-
-## 注意事項
-
-掲載している写真・情報の著作権や利用条件を確認してください。
