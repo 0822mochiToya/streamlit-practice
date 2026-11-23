@@ -1,5 +1,4 @@
-import streamlit as st
+import runpy
 
-st.title("Hello, Streamlit!")
-st.write("これは最小構成のアプリです。")
 
+runpy.run_path("arena_app.py", run_name="__main__")
